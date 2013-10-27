@@ -3,3 +3,6 @@ function alertUser(text){
 	console.log(text);
     alert(text);
 };
+function alertUserAboutWIP(){
+	alert("ModMaker is currently WIP");
+};
