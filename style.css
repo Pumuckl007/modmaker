@@ -9,13 +9,11 @@ p {
 }
 h2.header {
 	color : #0c0c0c;
-	background-color: #fdfdfd;
-	border: 5px solid #fdfdfd;
 	border-radius: 4px;
 	font-size: 350%;
 	font-weight: bold;
-	box-shadow: 10px 10px 5px #a8a8a8;
 	margin-bottom: 0.5em;
+	text-shadow: 1px -2.3px #a1a1a1
 }
 button {
 	border-radius: 10px;
