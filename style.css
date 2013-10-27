@@ -9,11 +9,6 @@ p {
 }
 h2.header {
 	color : blue;
-	background: #f6e6b4; /* Old browsers */
-	background: -moz-linear-gradient(top, #f6e6b4 0%, #ed9017 100%); /* FF3.6+ */
-	background: -webkit-linear-gradient(top, #f6e6b4 0%,#ed9017 100%); /* Chrome10+,Safari5.1+ */
-	background: -ms-linear-gradient(top, #f6e6b4 0%,#ed9017 100%); /* IE10+ */
-	background: linear-gradient(to bottom, #f6e6b4 0%,#ed9017 100%); /* W3C */
 	border-radius: 10px;
 	font-size: 350%;
 }
