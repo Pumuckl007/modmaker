@@ -6,11 +6,20 @@ p {
 	color:black;
 	line-height: 1em;
 	margin-bottom: 1em;
+	text-align:justify;
 }
 h2.header {
 	color : #0c0c0c;
 	border-radius: 4px;
-	font-size: 350%;
+	font-size: 275%;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+	text-shadow: 1px -2.3px #a1a1a1
+}
+h2.subheader {
+	color : #0c0c0c;
+	border-radius: 4px;
+	font-size: 200%;
 	font-weight: bold;
 	margin-bottom: 0.5em;
 	text-shadow: 1px -2.3px #a1a1a1
@@ -46,7 +55,7 @@ button {
 .outerborder {
 	display: inline-block;
 	box-shadow: 10px 10px 5px #a8a8a8;
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 }
 .bar {
 	text-align: center;
