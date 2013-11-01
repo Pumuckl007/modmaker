@@ -39,8 +39,19 @@ button {
 	color: white;
 	border-radius: 6px;
 }
+.subbutton {
+	text-decoration: none;
+	font-size: 120%;
+	padding: 0.1em 0.6em;
+	background-color: purple;
+	color: white;
+	border-radius: 6px;
+}
 .button:hover {
-	background-color: #00cc44;
+	background-color: #00c02a;
+}
+.subbutton:hover {
+	background-color: #aA38a6;
 }
 .cta {
 	margin-bottom: 1.3em;
